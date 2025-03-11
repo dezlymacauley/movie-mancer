@@ -4,8 +4,6 @@ import React from 'react'
 // This imports components from the  React Native library 
 import { Text, View } from "react-native";
 
-import "./globals.css";
-
 export default function Index() {
   return (
     <View
